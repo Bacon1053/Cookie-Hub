@@ -3,19 +3,19 @@ local plrs = game:GetService("Players")
 local UI = game:GetObjects("rbxassetid://7437010836")[1]
 
 local cool = {
-    {3531401982, "✨🍓DESIGNER🍓✨", 2},
+    {3531401982, "CookieHub - Premium", 2},
     {4321659797, "CookieHub - Premium", 2},
     {180452588, "CookieHub - Premium", 2},
     {1574328322, "CookieHub - Premium", 2},
-    {4222612058, "👑 NFSO 👑", 2},
+    {4222612058, "CookieHub - Premium", 2},
     {3734161981, "CookieHub - Premium", 2},
     {4455703917, "CookieHub - Premium", 2},
     {2843968848, "CookieHub - Premium", 2},
     {45627963, "CookieHub - Premium", 2},
-    {1442161073, "Deathrow", 2},
-    {1745077602, "BRYAN 🔥☄️", 2},
-    {2018457840, "RedEye 🔥", 2},
-    {4011054110, "ZIAD 🔥☄️", 2},
+    {1442161073, "CookieHub - Premium", 2},
+    {1745077602, "CookieHub - Premium", 2},
+    {2018457840, "CookieHub - Premium", 2},
+    {4011054110, "CookieHub - Premium", 2},
 }
 
 local function isCool(player)
