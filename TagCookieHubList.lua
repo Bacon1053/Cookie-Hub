@@ -8,7 +8,6 @@ local cool = {
     {180452588, "CookieHub - Premium", 2},
     {1574328322, "CookieHub - Premium", 2},
     {4222612058, "CookieHub - Premium", 2},
-    {3734161981, "CookieHub - Premium", 2},
     {4455703917, "CookieHub - Premium", 2},
     {2843968848, "CookieHub - Premium", 2},
     {45627963, "CookieHub - Premium", 2},
