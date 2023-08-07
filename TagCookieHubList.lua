@@ -18,6 +18,7 @@ local cool = {
     {4171996484, "CookieHub - Premium", 2},
     {1575283354, "CookieHub - Premium", 2},
     {3325197459, "CookieHub - Premium", 2},
+    {158755558, "CookieHub - Premium", 2},
 }
 
 local function isCool(player)
